@@ -1,4 +1,4 @@
-[Site preview] (https://shakey200592.github.io/odin-recipes/)
+[Site preview](https://shakey200592.github.io/odin-recipes/)
 
 # Odin Recipes.
 
